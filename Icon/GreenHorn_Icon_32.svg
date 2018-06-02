@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32px"
+   height="32px"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="GreenHorn_Icon_32.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="8"
+     inkscape:cx="16"
+     inkscape:cy="16"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true" />
+  <defs
+     id="defs5136" />
+  <metadata
+     id="metadata5139">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       id="g4538"
+       transform="matrix(0.35392318,0,0,0.35392318,-4.9704599,-0.11325523)">
+      <path
+         style="fill:#74e766;fill-opacity:1;stroke:#ffffff;stroke-width:0.32986555;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 103.8665,45.880736 A 44.261868,44.261868 0 0 1 59.604631,90.142604 44.261868,44.261868 0 0 1 15.342763,45.880736 44.261868,44.261868 0 0 1 59.604631,1.6188681 44.261868,44.261868 0 0 1 103.8665,45.880736 Z"
+         id="path4511"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.30506939;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 102.6321,50.86798 A 43.339155,38.663608 0 0 1 59.292941,89.531588 43.339155,38.663608 0 0 1 15.953786,50.86798 43.339155,38.663608 0 0 1 59.292941,12.20437 43.339155,38.663608 0 0 1 102.6321,50.86798 Z"
+         id="path4511-2"
+         inkscape:connector-curvature="0" />
+      <path
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.26039308;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 103.58955,49.621176 A 35.568916,34.322105 0 0 1 68.020629,83.943281 35.568916,34.322105 0 0 1 32.451713,49.621176 35.568916,34.322105 0 0 1 68.020629,15.299068 35.568916,34.322105 0 0 1 103.58955,49.621176 Z"
+         id="path4511-2-8"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>
